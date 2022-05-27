@@ -2,6 +2,9 @@
 
 
 - 🔭 I’m currently working on several of the **FreeCodeCamp** online certifications
+- So far, I have completed two: Scientific Computing With Python, Data Analysis with Python.
+
+I am currently owrking on the Machine learning certification and the web design certification. 
 
 
 -  📫 You can always reach out to my email at bardel44@gmail.com
