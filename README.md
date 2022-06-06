@@ -4,7 +4,23 @@
 - 🔭 I’m currently working on several of the **FreeCodeCamp** online certifications
 - So far, I have completed two: Scientific Computing With Python, Data Analysis with Python.
 
-I am currently working on the **Machine learning certification, web design certification and Javascript.** 
+I have completed a total of **10** projects for these certifications, for documentation see:
+https://www.freecodecamp.org/ninjaboy667
+
+Arithmetic Formatter
+Time Calculator
+Budget App
+Polygon Area Calculator
+Probability Calculator
+Mean-Variance-Standard Deviation Calculator
+Demographic Data Analyzer 
+Medical Data Visualizer
+Page View time Series Visualizer
+Sea Level Predictor
+
+
+I am currently working on the **Machine learning certification, Responsive Web design certification and Javascript certification.** 
+
 
 
 -  📫 You can always reach out to my email at bardel44@gmail.com
