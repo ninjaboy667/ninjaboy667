@@ -7,9 +7,9 @@
 I have completed a total of **10** projects for these certifications, for documentation see:
 https://www.freecodecamp.org/ninjaboy667
 
-Arithmetic Formatter
-Time Calculator
-Budget App
+-Arithmetic Formatter
+-Time Calculator
+-Budget App
 Polygon Area Calculator
 Probability Calculator
 Mean-Variance-Standard Deviation Calculator
