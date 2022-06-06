@@ -25,7 +25,7 @@ I am currently working on the **Machine learning certification, Responsive Web d
 
 
 
--  📫 You can always reach out to my email at bardel44@gmail.com
+-  📫 You can always reach out to my email at bardel44@gmail.com or send me a tweet at https://twitter.com/GMEKing9001
 -  I will get back to you as soon as I can
 www.linkedin.com/in/eli-barber829
 
@@ -33,6 +33,8 @@ www.linkedin.com/in/eli-barber829
 **ninjaboy667/ninjaboy667** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Modifying the code
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 -1- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
