@@ -7,16 +7,18 @@
 I have completed a total of **10** projects for these certifications, for documentation see:
 https://www.freecodecamp.org/ninjaboy667
 
--Arithmetic Formatter
--Time Calculator
--Budget App
-Polygon Area Calculator
-Probability Calculator
-Mean-Variance-Standard Deviation Calculator
-Demographic Data Analyzer 
-Medical Data Visualizer
-Page View time Series Visualizer
-Sea Level Predictor
+- Scientific computing
+  1. Arithmetic Formatter
+  2. Time Calculator
+  3. Budget App
+  4. Polygon Area Calculator
+  5. Probability Calculator
+- Data Analysis
+  1. Mean-Variance-Standard Deviation Calculator
+  2. Demographic Data Analyzer 
+  3. Medical Data Visualizer
+  4. Page View time Series Visualizer
+  5. Sea Level Predictor
 
 
 I am currently working on the **Machine learning certification, Responsive Web design certification and Javascript certification.** 
@@ -32,7 +34,7 @@ www.linkedin.com/in/eli-barber829
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+-1- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
