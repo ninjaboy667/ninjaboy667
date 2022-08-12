@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on several of the **FreeCodeCamp** online certifications
-- So far, I have completed Five: Scientific Computing With Python, Data Analysis with Python, Web development, javascript, front end.
+- So far, I have completed Five: Scientific Computing With Python, Data Analysis with Python, Responsive Web Deisgn, Javascript, Front End.
 
 I have completed a total of **26** projects for these certifications, for documentation/solutions see:
 https://www.freecodecamp.org/ninjaboy667
@@ -21,7 +21,7 @@ https://www.freecodecamp.org/ninjaboy667
   5. Sea Level Predictor
 
 
-I am currently working on the **Machine learning certification, Responsive Web design certification and Javascript certification.** 
+🔭 I am currently working on the **Machine learning certification, Data Visualization, and Back End Development and APIs certification.** 
 
 
 
