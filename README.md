@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on several of the **FreeCodeCamp** online certifications
-- So far, I have completed two: Scientific Computing With Python, Data Analysis with Python.
+- So far, I have completed Five: Scientific Computing With Python, Data Analysis with Python, Web development, javascript, front end.
 
 I have completed a total of **26** projects for these certifications, for documentation/solutions see:
 https://www.freecodecamp.org/ninjaboy667
