@@ -7,6 +7,8 @@
 I have completed a total of **26** projects for these certifications, for documentation/solutions see:
 https://www.freecodecamp.org/ninjaboy667
 
+Alot of the projects I am currently working on you will find at my codepend https://codepen.io/ninjaboy667
+
 - Scientific computing
   1. Arithmetic Formatter
   2. Time Calculator
